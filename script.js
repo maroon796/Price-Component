@@ -1,6 +1,7 @@
 'use strict';
 
 const btn = document.querySelector('.btn');
+34;
 const close = document.querySelector('.close');
 const modal = document.querySelector('.modal');
 
